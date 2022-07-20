@@ -1,0 +1,19 @@
+.my-newButton {
+    display: block;
+    width: 10vw;
+    height: 5vw;
+    background-color: blue;
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    border-radius: 10%;
+    margin: auto;
+    
+}
+
+.my-newButton:hover{
+    background-color: white;
+    color: red;
+    cursor: pointer;
+}
